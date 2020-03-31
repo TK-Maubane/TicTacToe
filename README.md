@@ -1,7 +1,9 @@
-# TicTacToe
+# TicTacToe #
 GUI Based TicTacToe game
+You vs Computer
 Language: python (tKinter)
 
-Techniques:
-Use of pythons tKinter module
-Intergrating a friendly GUI wityh logical and concise logic 
+## Techniques: ##
+* Python based GUI (tKinter Library)
+* Intergrating a friendly GUI with logical and concise logic
+* Using DRY method to manage edits to objects
